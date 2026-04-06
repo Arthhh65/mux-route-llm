@@ -1,7 +1,3 @@
-"# MUX-Route: Domain-Aware LLM Multiplexing"
-
-
-
 MUX-Route: Domain-Aware LLM Multiplexing
 
 
@@ -62,6 +58,14 @@ Router
 
 Uses sentence embeddings and centroid similarity to assign domains
 
+Answer generation
+
+Produces responses using routed prompts and selected models
+
+Evaluation (LLM-as-Judge)
+
+Scores responses based on correctness, completeness, and clarity
+
 Modular design
 
 Each stage is separated, making it easy to extend or replace
@@ -79,6 +83,8 @@ Select the best matching domain
 Apply domain-specific instructions
 
 Generate the final answer
+
+Evaluate responses using an LLM-as-judge
 
 
 
@@ -102,31 +108,43 @@ Handles domain routing using embedding similarity
 
 
 
+generate\_answers.py
+
+Generates responses using routed prompts
+
+
+
+judge.py
+
+Evaluates responses using LLM-as-judge scoring
+
+
+
 requirements.txt
 
 Lists dependencies required to run the project
 
 
 
-Work in progress
+Current Progress
 
 
 
-The following components are being added step by step:
+The following components are implemented:
 
 
+
+Dataset generation
+
+Embedding-based domain routing
 
 Answer generation pipeline
 
 LLM-as-judge evaluation system
 
-Ablation experiments
-
-Result analysis
 
 
-
-The repository is being built in stages to reflect actual development, not a last-minute dump.
+Additional components such as ablation studies and detailed analysis are being added.
 
 
 
