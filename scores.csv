@@ -1,0 +1,81 @@
+query,A_score,B_score,Better
+"What should I do about persistent fever for two days, and when should I seek urgent medical care?",10.0,9.0,A
+"What should I do about lower back pain after exercise, and when should I seek urgent medical care?",10.0,9.0,A
+"What should I do about chest pain during pregnancy, and when should I seek urgent medical care?",10.0,9.0,A
+"What should I do about stomach pain in a 7-year-old child, and when should I seek urgent medical care?",9.0,10.0,B
+"What should I do about knee pain in an elderly parent, and when should I seek urgent medical care?",9.0,8.0,A
+"What should I do about headache symptoms while fasting, and when should I seek urgent medical care?",10.0,9.0,A
+"What should I do about seasonal allergy symptoms after traveling, and when should I seek urgent medical care?",10.0,8.0,A
+"What should I do about flu symptoms with no prior history, and when should I seek urgent medical care?",9.0,10.0,B
+"What should I do about dehydration symptoms with mild dizziness, and when should I seek urgent medical care?",10.0,9.0,A
+"What should I do about insomnia symptoms that worsens at night, and when should I seek urgent medical care?",9.0,10.0,B
+"What should I do about persistent fever for two days, and when should I seek urgent medical care?",9.0,10.0,B
+"What should I do about lower back pain after exercise, and when should I seek urgent medical care?",10.0,9.0,A
+"What should I do about chest pain during pregnancy, and when should I seek urgent medical care?",10.0,9.0,A
+"What should I do about stomach pain in a 7-year-old child, and when should I seek urgent medical care?",9.0,8.0,A
+"What should I do about knee pain in an elderly parent, and when should I seek urgent medical care?",10.0,9.0,A
+"What should I do about headache symptoms while fasting, and when should I seek urgent medical care?",9.0,10.0,B
+"What should I do about seasonal allergy symptoms after traveling, and when should I seek urgent medical care?",9.0,8.0,A
+"What should I do about flu symptoms with no prior history, and when should I seek urgent medical care?",10.0,9.0,A
+"What should I do about dehydration symptoms with mild dizziness, and when should I seek urgent medical care?",10.0,9.0,A
+"What should I do about insomnia symptoms that worsens at night, and when should I seek urgent medical care?",9.0,10.0,B
+"What should I do about persistent fever for two days, and when should I seek urgent medical care?",9.0,10.0,B
+"What should I do about lower back pain after exercise, and when should I seek urgent medical care?",10.0,9.0,A
+"What should I do about chest pain during pregnancy, and when should I seek urgent medical care?",10.0,9.0,A
+"What should I do about stomach pain in a 7-year-old child, and when should I seek urgent medical care?",10.0,9.5,A
+"What should I do about knee pain in an elderly parent, and when should I seek urgent medical care?",10.0,8.0,A
+"What should I do about headache symptoms while fasting, and when should I seek urgent medical care?",10.0,9.0,A
+"What should I do about seasonal allergy symptoms after traveling, and when should I seek urgent medical care?",10.0,9.0,A
+"What should I do about flu symptoms with no prior history, and when should I seek urgent medical care?",9.0,10.0,B
+"What should I do about dehydration symptoms with mild dizziness, and when should I seek urgent medical care?",10.0,9.0,A
+"What should I do about insomnia symptoms that worsens at night, and when should I seek urgent medical care?",9.0,10.0,B
+How should I invest $200 per month in index stock funds for retirement while managing risk and taxes?,9.0,8.0,A
+How should I invest $500 per month in government bonds for a house down payment while managing risk and taxes?,9.0,8.0,A
+"How should I invest $1,000 per month in high-yield savings for my emergency fund while managing risk and taxes?",9.0,8.0,A
+"How should I invest $5,000 lump sum in a balanced ETF portfolio for college savings while managing risk and taxes?",9.0,8.0,A
+"How should I invest $20,000 lump sum in dividend stocks for short-term goals while managing risk and taxes?",9.0,10.0,B
+How should I invest $200 per month in a money market fund for long-term wealth while managing risk and taxes?,9.0,10.0,B
+How should I invest $500 per month in index stock funds for retirement while managing risk and taxes?,9.0,10.0,B
+"How should I invest $1,000 per month in government bonds for a house down payment while managing risk and taxes?",9.0,8.0,A
+"How should I invest $5,000 lump sum in high-yield savings for my emergency fund while managing risk and taxes?",9.0,7.0,A
+"How should I invest $20,000 lump sum in a balanced ETF portfolio for college savings while managing risk and taxes?",9.0,8.0,A
+How should I invest $200 per month in dividend stocks for short-term goals while managing risk and taxes?,9.0,8.0,A
+How should I invest $500 per month in a money market fund for long-term wealth while managing risk and taxes?,9.0,8.0,A
+"How should I invest $1,000 per month in index stock funds for retirement while managing risk and taxes?",9.0,8.0,A
+"How should I invest $5,000 lump sum in government bonds for a house down payment while managing risk and taxes?",9.0,8.0,A
+"How should I invest $20,000 lump sum in high-yield savings for my emergency fund while managing risk and taxes?",9.0,10.0,B
+How should I invest $200 per month in a balanced ETF portfolio for college savings while managing risk and taxes?,9.0,7.0,A
+How should I invest $500 per month in dividend stocks for short-term goals while managing risk and taxes?,9.0,8.0,A
+"How should I invest $1,000 per month in a money market fund for long-term wealth while managing risk and taxes?",9.0,8.0,A
+"How should I invest $5,000 lump sum in index stock funds for retirement while managing risk and taxes?",9.0,8.0,A
+"How should I invest $20,000 lump sum in government bonds for a house down payment while managing risk and taxes?",9.0,8.0,A
+How should I invest $200 per month in high-yield savings for my emergency fund while managing risk and taxes?,9.0,7.0,A
+How should I invest $500 per month in a balanced ETF portfolio for college savings while managing risk and taxes?,9.0,2.0,A
+"How should I invest $1,000 per month in dividend stocks for short-term goals while managing risk and taxes?",9.0,10.0,B
+"How should I invest $5,000 lump sum in a money market fund for long-term wealth while managing risk and taxes?",9.0,10.0,B
+"How should I invest $20,000 lump sum in index stock funds for retirement while managing risk and taxes?",9.0,8.0,A
+How should I invest $200 per month in government bonds for a house down payment while managing risk and taxes?,9.0,8.0,A
+How should I invest $500 per month in high-yield savings for my emergency fund while managing risk and taxes?,9.0,8.0,A
+"How should I invest $1,000 per month in a balanced ETF portfolio for college savings while managing risk and taxes?",9.0,8.0,A
+"How should I invest $5,000 lump sum in dividend stocks for short-term goals while managing risk and taxes?",9.0,8.0,A
+"How should I invest $20,000 lump sum in a money market fund for long-term wealth while managing risk and taxes?",9.0,8.0,A
+Can you explain the termination clause in this employment agreement and what legal rights I should verify before signing?,10.0,9.0,A
+Can you explain the liability limits in this rental agreement and what legal rights I should verify before signing?,10.0,7.0,A
+Can you explain the payment terms in this freelance agreement and what legal rights I should verify before signing?,10.0,9.0,A
+Can you explain the intellectual property rights in this vendor agreement and what legal rights I should verify before signing?,10.0,9.0,A
+Can you explain the data protection obligations in this non-disclosure agreement and what legal rights I should verify before signing?,10.0,9.5,A
+Can you explain the dispute resolution in this service agreement and what legal rights I should verify before signing?,10.0,9.0,A
+Can you explain the termination clause in this employment agreement and what legal rights I should verify before signing?,10.0,9.0,A
+Can you explain the liability limits in this rental agreement and what legal rights I should verify before signing?,9.0,8.0,A
+Can you explain the payment terms in this freelance agreement and what legal rights I should verify before signing?,10.0,10.0,B
+Can you explain the intellectual property rights in this vendor agreement and what legal rights I should verify before signing?,10.0,9.0,A
+Can you explain the data protection obligations in this non-disclosure agreement and what legal rights I should verify before signing?,10.0,9.0,A
+Can you explain the dispute resolution in this service agreement and what legal rights I should verify before signing?,10.0,9.0,A
+Can you explain the termination clause in this employment agreement and what legal rights I should verify before signing?,10.0,9.0,A
+Can you explain the liability limits in this rental agreement and what legal rights I should verify before signing?,10.0,9.0,A
+Can you explain the payment terms in this freelance agreement and what legal rights I should verify before signing?,10.0,9.0,A
+Can you explain the intellectual property rights in this vendor agreement and what legal rights I should verify before signing?,10.0,9.0,A
+Can you explain the data protection obligations in this non-disclosure agreement and what legal rights I should verify before signing?,10.0,8.0,A
+Can you explain the dispute resolution in this service agreement and what legal rights I should verify before signing?,10.0,9.0,A
+Can you explain the termination clause in this employment agreement and what legal rights I should verify before signing?,10.0,9.0,A
+Can you explain the liability limits in this rental agreement and what legal rights I should verify before signing?,9.0,10.0,B

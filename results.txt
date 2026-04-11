@@ -1,0 +1,12 @@
+We evaluate on 150 queries using LLM-as-Judge scoring for correctness, completeness, and clarity. The judge compares MUX-Route (Answer A) and a mono baseline (Answer B) on a 1-10 scale. Results show overall quality differences and quantify ablation impact from removing domain prompts or routing.
+
+Quality Comparison
+MUX: 9.45
+Mono: 8.70
+
+Win Rate: 78.75%
+
+Ablation Results
+Full: 9.37
+No Prompt: 9.31 (Drop vs Full: 0.06)
+No Routing: 9.38 (Drop vs Full: -0.01)
