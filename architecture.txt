@@ -1,0 +1,13 @@
+User Query
+   ↓
+Embedding Router
+   ↓
+Domain Selection
+   ↓
+Prompt Construction
+   ↓
+LLM Response Generation
+   ↓
+LLM-as-Judge Evaluation
+   ↓
+Scores + Analysis
